@@ -22,7 +22,7 @@ namespace invoice
             list.Add(new Country { CountryName = "Austria", CountryCode = "AT" });
             list.Add(new Country { CountryName = "Lithuania", CountryCode = "LT" });
             list.Add(new Country { CountryName = "Slovakia", CountryCode = "SK" });
-            Assert.Equal("aaa", substitude.ConvertCountryToCountryCode("Lithuania", list));
+            Assert.Equal("LT", substitude.ConvertCountryToCountryCode("Lithuania", list));
         }
 
         [Fact]
