@@ -1,0 +1,14 @@
+C:\Users\Tautvydas\source\repos\invoice\invoice\obj\Debug\netcoreapp2.1\invoice.csprojAssemblyReference.cache
+C:\Users\Tautvydas\source\repos\invoice\invoice\obj\Debug\netcoreapp2.1\invoice.csproj.CoreCompileInputs.cache
+C:\Users\Tautvydas\source\repos\invoice\invoice\obj\Debug\netcoreapp2.1\invoice.AssemblyInfoInputs.cache
+C:\Users\Tautvydas\source\repos\invoice\invoice\obj\Debug\netcoreapp2.1\invoice.AssemblyInfo.cs
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\invoice.deps.json
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\invoice.runtimeconfig.json
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\invoice.runtimeconfig.dev.json
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\invoice.dll
+C:\Users\Tautvydas\source\repos\invoice\invoice\bin\Debug\netcoreapp2.1\invoice.pdb
+C:\Users\Tautvydas\source\repos\invoice\invoice\obj\Debug\netcoreapp2.1\invoice.dll
+C:\Users\Tautvydas\source\repos\invoice\invoice\obj\Debug\netcoreapp2.1\invoice.pdb
